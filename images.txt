@@ -1,1 +1,1 @@
-docker.io/library/python:3.6-slim
+postgres:13-alpine
