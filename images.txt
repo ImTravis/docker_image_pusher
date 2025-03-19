@@ -1,1 +1,1 @@
-apachepulsar/pulsar:latest
+centos:7
