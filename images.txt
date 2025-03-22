@@ -1,1 +1,1 @@
-mysql:5.7
+apachepulsar/pulsar:2.2.0
