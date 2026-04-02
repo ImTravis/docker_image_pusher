@@ -1,3 +1,5 @@
-docker.getcollate.io/openmetadata/db:1.6.1
-docker.getcollate.io/openmetadata/server:1.6.1
-docker.getcollate.io/openmetadata/ingestion:1.6.1
+docker.1ms.run/library/postgres:14-alpine
+docker.1ms.run/library/redis:6.2.21
+docker.1ms.run/library/influxdb:latest
+docker.1ms.run/zhitancorp/zhitan-api:latest
+docker.1ms.run/zhitancorp/zhitan-web:latest
